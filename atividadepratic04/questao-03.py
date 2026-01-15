@@ -12,7 +12,7 @@ while True:
         tem_numero = False
         for caractere in senha:
 
-            if caractere in 'o123456789':
+           # if caractere in 'o123456789':
                 tem_numero = True
                 break
 
